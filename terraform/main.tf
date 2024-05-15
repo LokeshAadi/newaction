@@ -1,4 +1,3 @@
-/*
 #provider
 
 provider "aws" {
